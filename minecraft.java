@@ -1,3 +1,6 @@
+//AUTOR: Fernando Groders
+//VERSÃO: 1.0
+
 import java.util.Scanner;
 
 class minecraft {
@@ -20,7 +23,6 @@ class minecraft {
         System.out.println("F - Fechar jogo");
         System.out.println("");
 
-        
         while(jogo==true){
             System.out.println("");
             System.out.print("O que você deseja fazer? (H - Comandos) ");
